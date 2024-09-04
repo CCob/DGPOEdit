@@ -31,6 +31,10 @@ DGPOEdit /s /gpobject:"LDAP://dc.ad.target.com/cn={31B2F340-016D-11D2-945F-00C04
 ```
 The LDAP path to the target GPO can be determined via your favorite LDAP explorer tool like ADExploer.
 
+### Release
+
+Precompiled binaries can be found on the [Releases](https://github.com/CCob/DGPOEdit/releases) page
+
 
 
 
