@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DGPOEdit": {
+      "commandName": "Project",
+      "commandLineArgs": "/S /GPOBJECT:\"LDAP://WIN-AF8KI8E5414.AD.GINGE.COM/CN={31B2F340-016D-11D2-945F-00C04FB984F9},CN=POLICIES,CN=SYSTEM,DC=AD,DC=GINGE,DC=COM\"  "
+    }
+  }
+}
